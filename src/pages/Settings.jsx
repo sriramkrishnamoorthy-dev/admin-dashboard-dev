@@ -7,8 +7,8 @@ const Settings = () => {
   const { addNotification, theme } = useStore();
   const [activeTab, setActiveTab] = useState('profile');
   const [formData, setFormData] = useState({
-    name: 'John Doe',
-    email: 'john.doe@example.com',
+    name: 'sriram',
+    email: 'sriramofficial1111@gmail.com',
     phone: '+1 234 567 8900',
     company: 'TechCorp Inc.',
     bio: 'Full-stack developer passionate about creating amazing user experiences.',
